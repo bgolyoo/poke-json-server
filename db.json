@@ -14,6 +14,11 @@
       "id": 3,
       "title": "another test",
       "author": "me"
+    },
+    {
+      "id": 4,
+      "title": "another test2",
+      "author": "me"
     }
   ],
   "comments": [
